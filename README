@@ -1,0 +1,7 @@
+This is a random collection of cookbooks for Opscode Chef that I've either written or need to share for some reason.
+
+They're unsupported and may be awfuly old, so your mileage may vary.
+
+Unless otherwise noted the copyrights are retained by myself and the cookbooks are licensed under the Apache 2.0 license which may be obtained here: http://www.apache.org/licenses/LICENSE-2.0.html
+
+Bryan McLellan <btm@loftninjas.org>
