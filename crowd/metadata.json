@@ -1,0 +1,44 @@
+{
+  "conflicting": {
+  },
+  "attributes": {
+  },
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "providing": {
+  },
+  "dependencies": {
+    "runit": [
+
+    ],
+    "java": [
+
+    ],
+    "openssl": [
+
+    ],
+    "apache2": [
+
+    ]
+  },
+  "recipes": {
+  },
+  "maintainer": "Bryan McLellan",
+  "replacing": {
+  },
+  "license": "Apache 2.0",
+  "maintainer_email": "btm@loftninjas.org",
+  "groupings": {
+  },
+  "platforms": {
+  },
+  "version": "0.0.1",
+  "recommendations": {
+    "mysql": [
+
+    ]
+  },
+  "name": "crowd",
+  "suggestions": {
+  },
+  "description": "Installs/Configures crowd"
+}
